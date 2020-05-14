@@ -11,6 +11,7 @@
 <h4>Project Description</h4>
 <p>The project team’s goal is developing a comprehensive solution explained more details in the deliverables section to control the ball’s position (or velocity or acceleration) on the plate.</p>
 
+![](trippyscreen.jpg)
 <hr>
 
 <h4>Modeling</h4>
