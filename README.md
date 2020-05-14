@@ -25,3 +25,8 @@
 
 <h4>Controller Design and Simulations</h4>
 <p>.... put text here ...</p>
+
+<hr>
+
+<h4>Conclusion</h4>
+<p>.... put text here ...</p>
