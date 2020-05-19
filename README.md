@@ -1,4 +1,4 @@
-<h1>Two Degree-of-Freedom Ball Balancer Project</h1>
+<h1>Two Degree of Freedom Ball Balancer Project</h1>
 
 <h2>California State University, Chico</h2>
 
